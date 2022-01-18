@@ -1,4 +1,4 @@
-#Udemy - Linked List Append
+#Udemy - Linked List Pop
 #1/17/2022
 
 #Normal Node Class
